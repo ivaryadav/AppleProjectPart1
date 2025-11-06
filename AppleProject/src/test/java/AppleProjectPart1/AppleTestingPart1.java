@@ -16,7 +16,7 @@ public class AppleTestingPart1 {
 		
 		int b = 2;
 		
-		while(b<=23)
+		while(b<=26)
 		{
 			System.out.println(b);
 			b+=2;
